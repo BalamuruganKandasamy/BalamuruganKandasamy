@@ -1,4 +1,3 @@
-BK
 
 # Balamurugan Kandasamy
 
